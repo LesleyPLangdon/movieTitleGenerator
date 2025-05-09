@@ -20,6 +20,7 @@ You're going to build this generator **one function at a time**. Each function m
 3. After finishing each function:
    - ✅ Make sure your code runs without errors.
    - ✅ Print out your result to check that it’s working.
+   - ✅ Add clear comments to demonstrate understaning of the code.
 4. Once it works, move on to the next challenge.
 
 At the end, you’ll have a **fully generated ridiculous movie summary** — ready to pitch to Hollywood!
