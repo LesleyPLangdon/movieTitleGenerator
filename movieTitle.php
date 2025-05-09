@@ -8,6 +8,7 @@
 Ridiculous Movie Title & Summary Generator (Starter Code)
 - Use user input, random values, arrays, conditionals, and logic
 - Build each part of the generator in mini-challenges
+- Add comments as you go. Comments count for 10% of your grade!!
 */
 
 $movie = [
